@@ -1,6 +1,6 @@
 # 🚀 Niranjan NS — Personal Portfolio
 
-> **Live Site →** [niranjan4560.github.io](https://niranjan4560.github.io)
+> **Live Site →** [niranjan4560.github.io](https://niranjan4560.github.io/niranjan4560-github.io/)
 
 A modern, single-file personal portfolio website built to showcase my projects, skills, and experience as a Computer Science student at Amrita Vishwa Vidyapeetham.
 
