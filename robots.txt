@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://niranjan4560.github.io/niranjan4560-github.io/sitemap.xml
